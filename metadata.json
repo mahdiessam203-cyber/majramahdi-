@@ -1,0 +1,7 @@
+{
+  "name": "Majra - Iraqi Universities & Admission Portal",
+  "description": "منصة مجرى التفاعلية لاستعراض الجامعات العراقية، الحدود الدنيا للقبول المركزي والموازي، الكليات الأهلية، الأقساط السنوية ومساعد القبول الذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
